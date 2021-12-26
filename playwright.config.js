@@ -7,7 +7,7 @@ const path = require('path');
  * @type {import('@playwright/test').PlaywrightTestConfig}
  */
 const config = {
-  testDir: './e2e',
+  testDir: './tests',
 
   /* Maximum time one test can run for. */
   timeout: 30 * 1000,
