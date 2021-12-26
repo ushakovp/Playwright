@@ -1,0 +1,24 @@
+{
+  "name": "Playwright",
+  "version": "1.0.0",
+  "description": "PlayWright playground",
+  "main": "index.js",
+  "directories": {
+    "test": "tests"
+  },
+  "scripts": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ushakovp/Playwright.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ushakovp/Playwright/issues"
+  },
+  "homepage": "https://github.com/ushakovp/Playwright#readme",
+  "devDependencies": {
+    "@playwright/test": "^1.17.1"
+  }
+}
